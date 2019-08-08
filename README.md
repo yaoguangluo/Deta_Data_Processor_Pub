@@ -2,6 +2,16 @@
 国家个人软件著作权申请 净化版本.
 
 
+发布时间表备查: 
+2012年视觉分析的源码逐渐发表在qq空间.
+https://user.qzone.qq.com/313699483/main
+
+2013年12月30日逐渐应用在ETL节点中 的完整包
+https://user.qzone.qq.com/275108127/2
+
+2018年9月23日 首次完整的上传到github
+https://github.com/yaoguangluo/Data_Processor/graphs/contributors
+
 申明:
 
 ##### 1 该软著仅仅用来 申请社会和职业一些合法评选和资历的权益.已经开源的部分,仍永久免费.
