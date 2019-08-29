@@ -23,4 +23,6 @@ https://github.com/yaoguangluo/Data_Processor/graphs/contributors
 20190808
 
 
-20190829 ：收到知委官文，需要补正，在跟进完善中。
+20190829 ：收到知委官文，需要补正（函数用途，flowchat），在跟进完善中。
+具体操作地址如下：
+https://github.com/yaoguangluo/Deta_Data_Processor_Pub/blob/master/%E5%BE%B7%E5%A1%94%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%AE%97%E6%B3%95%E5%BC%95%E6%93%8E%E7%B3%BB%E7%BB%9F1.0%20%20%E5%87%BD%E6%95%B0%E7%94%A8%E9%80%94201908291826.doc
