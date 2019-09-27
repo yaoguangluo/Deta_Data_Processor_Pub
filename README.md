@@ -42,3 +42,6 @@ https://github.com/yaoguangluo/Deta_Data_Processor_Pub/blob/master/%E5%BE%B7%E5%
 
 ##### 说明书1.0.1版本 补正
 https://github.com/yaoguangluo/Deta_Data_Processor_Pub/blob/master/%E5%BE%B7%E5%A1%94%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%AE%97%E6%B3%95%E5%BC%95%E6%93%8E%E7%B3%BB%E7%BB%9F1.0.1%20%20%E8%AF%B4%E6%98%8E%E4%B9%A6%20final%20%E8%A1%A5%E6%AD%A3.docx
+
+##### 国家知委最新补正：要求个人软著全名去掉公司名‘德塔’ 和 ‘Deta’ 关键字，
+##### 作者在此申明。 罗瑶光 2090927
